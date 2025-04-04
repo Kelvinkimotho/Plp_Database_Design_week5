@@ -22,21 +22,25 @@
 
 --- 
 
-## 📚 Assignment Questions   
+## 📚 Assignment Questions 
+# I first created a database , a customer table, inserted some data and then create an index to test the drop operation
+
+![create](one.png)
+
 ### **Question 1 🗑️** 
 **Write an SQL query** to drop an index named **IdxPhone** from **customers** table.
-
+![drop](drop.png)
 ---
 ### **Question 2 👤** 
  **Write an SQL query** to create a user named **bob** with the password _'S$cu3r3!'_ , restricted to the localhost hostname.
-
+![create user](create_user.png)
 ---
 ### **Question 3 🔑** 
  **Write an SQL query** to grant the **INSERT** privilege to the user **bob** on the **salesDB** database.
-
+![grant insert](grant.png)
 ---
 ### **Question 4 🔐**
 **Write an SQL query** to change the password for the user **bob** to _'P$55!23'_
-
+![change password](change.png)
 ---
 Good luck 🚀
